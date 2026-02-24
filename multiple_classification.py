@@ -38,7 +38,7 @@ if(selected == 'RidingMower'):
                                  
     st.success(ridingmower_predict)
     
-if(selected == 'Loan ') :
+if(selected == 'Loan') :
     st.title('Loan Predict')
       
 
